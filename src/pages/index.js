@@ -8,7 +8,7 @@ const IndexPage = () => {
       <p>This site has been created to jot down all the cool stuff which can be done using UiPath</p>
       <StaticImage
         alt="Developer, a person who codes"
-        src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
+        src="C:\Users\Sachin\Gatsby\SachinHatikankanGatsbyPortfolio\src\images\developerImage.jpg"
       />
     </Layout>
   )
